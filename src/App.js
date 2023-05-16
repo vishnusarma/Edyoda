@@ -9,7 +9,7 @@ export default function App() {
   return (
     <div className={style.main}>
       <Navbar />
-      <div className={style.wrapper}>
+      <div className={style.wrapp}>
         <div className={style.left}>
           <Content />
         </div>
